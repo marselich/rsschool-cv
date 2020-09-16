@@ -10,15 +10,15 @@
 **Education:** General secondary education
 
 # Contacts
-- [VK](https://vk.com/marsell_kaliev)
-- [Telegram](https://t.me/Jowcup)
-- **Email:** marsellkaliev7722@gmail.com
+* [VK](https://vk.com/marsell_kaliev)
+* [Telegram](https://t.me/Jowcup)
+* **Email:** marsellkaliev7722@gmail.com
 
 # Objective 
 I am seeking a competitive and challenging environment of junior web developer. I want to gain experience in teamwork. Also I have the desire and ability to learn quickly. My best qualities: balance, self-control, perseverance, hard work, discipline.
 
 # Skills
-- HTML5, CSS3
+* HTML5, CSS3
 
 # Code examples
 Сoming soon
