@@ -1,0 +1,89 @@
+body {
+    display: block;
+    width: 1000px;
+    margin: 0 auto;
+
+    /*background: #fdf6f6;*/
+    font-family: 'Roboto', sans-serif;
+
+    background: url(../img/backround.png);
+    background-size: cover;
+    box-shadow: .5px 0 14px gray;
+}
+
+header {
+    background: #eaeaee;
+    padding: 8px;
+}
+
+.name-and-profession {
+    float: left;
+    font-size: 18px;
+    margin: 18px auto;
+    text-align: center;
+    width: 326px;
+    height: 200px;
+}
+
+.header-container {
+    border: 1px solid black;
+    height: 184px;
+}
+
+.header-container img {
+    float: left;
+    height: 324px;
+    width: 324px;
+    margin: 26px auto;
+    box-shadow: 0 0 14px gray;
+    border-radius: 205px;
+}
+
+.about-me {
+    float: left;
+    width: 328px;
+    height: 200px;
+}
+
+.main-wrapper {
+    background: #fffafa;
+    padding: 8px;
+}
+
+.objective-and-skills {
+    display: inline-block;
+    height: 184px;
+    transform: translate(0, -170px);
+}
+
+.objective, .skills{
+    float: left;
+    width: 32%;
+    height: 150px;
+}
+
+.skills {
+ margin-left: 36%;
+}
+
+.main-block {
+    transform: translate(0, -170px);
+}
+
+.footer-wrapper {
+    background: #c6c6c6;
+    height: 50px;
+    padding: 8px;
+
+}
+
+.footer-wrapper img, .email{
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-left: 20%;
+}
+
+.email {
+    padding-top: 6px;
+}
